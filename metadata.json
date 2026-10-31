@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp 3D - Immersive Avatar Messenger",
+  "description": "Next-generation WhatsApp experience with real-time messaging, expressive 3D avatars, spatial chat lounges, voice notes, and video calls.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
